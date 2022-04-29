@@ -21,8 +21,6 @@ public class Obscuring2 {
         // print value of
         // java.lang.Thread.MIN_PRIORITY
 
-        System.out.println(java.lang.
-            Thread.MIN_PRIORITY);
+        System.out.println(java.lang.Thread.MIN_PRIORITY);
     }
 }
-
